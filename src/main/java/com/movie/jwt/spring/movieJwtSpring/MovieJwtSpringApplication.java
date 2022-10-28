@@ -11,6 +11,6 @@ public class MovieJwtSpringApplication {
 		System.out.println("Hello");
 	}
 
-	// My name kis Kalyan
+	// My name is Kalyan
 	// Kalyan Chowdhury
 }
